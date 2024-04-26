@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "bs2gQTj9Zfgc3T81gEknRUG9DFuwB7CYUKYirW9n+6k=",
+  "Source": "ASP.NET Data Managment",
+  "BasePath": "_content/ASP.NET Data Managment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP.NET Data Managment\\wwwroot",
+      "Source": "ASP.NET Data Managment",
+      "ContentRoot": "C:\\Users\\hasan\\source\\repos\\ASP.NET Data Managment\\ASP.NET Data Managment\\wwwroot\\",
+      "BasePath": "_content/ASP.NET Data Managment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

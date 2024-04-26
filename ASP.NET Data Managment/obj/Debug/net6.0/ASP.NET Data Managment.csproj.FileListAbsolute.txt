@@ -1,0 +1,28 @@
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\bin\Debug\net6.0\appsettings.json
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\bin\Debug\net6.0\ASP.NET Data Managment.staticwebassets.runtime.json
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\bin\Debug\net6.0\ASP.NET Data Managment.exe
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\bin\Debug\net6.0\ASP.NET Data Managment.deps.json
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\bin\Debug\net6.0\ASP.NET Data Managment.runtimeconfig.json
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\bin\Debug\net6.0\ASP.NET Data Managment.dll
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\bin\Debug\net6.0\ASP.NET Data Managment.pdb
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.AssemblyInfo.cs
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.RazorAssemblyInfo.cache
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.RazorAssemblyInfo.cs
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET Data Managment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET Data Managment.props
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Data Managment.props
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET Data Managment.props
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Data Managment.styles.css
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.dll
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\refint\ASP.NET Data Managment.dll
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.pdb
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ASP.NET Data Managment.genruntimeconfig.cache
+C:\Users\hasan\source\repos\ASP.NET Data Managment\ASP.NET Data Managment\obj\Debug\net6.0\ref\ASP.NET Data Managment.dll
